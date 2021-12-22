@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1637984812 source:e:\debug project\c\sha512_test\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+	"sha512.h"
+
+1637120251 e:\debug project\c\sha512_test\sha512.h
+	<stddef.h>
+	<stdint.h>
+	"sha512_alt.h"
+
+1637130023 source:e:\debug project\c\sha512_test\sha512.c
+	<stdint.h>
+	<string.h>
+	"sha512.h"
+
